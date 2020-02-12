@@ -2,7 +2,7 @@ package Les1;
 
 public class MaxNum {
     public static void main(String[] args) {
-        int[] arr = {3,5,4,-8,-7};
+        int[] arr = {3,5,4,-8,-7, 9, 11};
 
         int max1 = 0;
         int max2 = 0;
